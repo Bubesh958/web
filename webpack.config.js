@@ -27,7 +27,7 @@ const config = {
       patterns: [
         {
           from: path.join(SRC_DIRECTORY, "assets"),
-          to: path.join(ROOT_DIRECTORY, "build"),
+          to: path.join(ROOT_DIRECTORY, "build/assets"),
         },
       ],
     }),
