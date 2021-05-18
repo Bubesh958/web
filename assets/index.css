@@ -151,6 +151,7 @@ a.home:active {
 
 .TableOfContents .FirstTopic div a {
     color: #4444aa;
+    text-decoration: none;
 }
 
 .TableOfContents .FirstTopic .SecondTopic {
