@@ -171,3 +171,10 @@ a.home:active {
     font-weight: bold;
     text-decoration: none;
 }
+
+.article ul li {
+    font-weight: bold;
+}
+.article ul div {
+    margin-left: 20px;
+}
