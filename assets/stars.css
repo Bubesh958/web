@@ -511,6 +511,6 @@
         transform: translate(0px, 0px);
     }
     to {
-        transform: translate(100%, -100%);
+        transform: translate(2000px, -2000px);
     }
 }
