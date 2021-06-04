@@ -2,9 +2,6 @@
     height: 100%;
     width: 100%;
     overflow: hidden; /* or overflow:auto; if you want scrollbars */
-}
-
-#stars {
     background: radial-gradient(#1b2735 0%, #090a0f 0%);
 }
 
